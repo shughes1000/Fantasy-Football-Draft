@@ -6,6 +6,6 @@ This is a project that I have revisted quite often as I have learned more regres
 
 My dataset, acquired from the FantasyPros website, contains the average draft position of each player and their fantasy points per game average in that respective season (PPR).
 
-Conclusions: As expected, my model says that running backs yield the highest value as an early pick. However, the running back relative value significantly fades near the end of fantasy drafts. It would be wise to pick running backs early in the fantasy draft and maximize value elsewhere later. I was also surprised by how valuable tight ends seem to be near pick 50. 
+Conclusions: As expected, my model says that running backs yield the highest value as an early pick. However, the running back relative value significantly fades near the end of fantasy drafts. It would be wise to pick running backs early in the fantasy draft and maximize value elsewhere later. I was also surprised by how valuable tight ends seem to be near pick 40. 
 
 Possible Improvements: My model does not take into account the diminishing value of picking the same positions multiple times (as you can only play so many players of the same position in fantasy football). A future project could account for this diminishing return by adjusting the values by a calculated amount if there are multiple players of the same position on a fantasy team. 
